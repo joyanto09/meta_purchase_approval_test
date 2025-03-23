@@ -18,6 +18,7 @@
         'security/purchase_security.xml',
         'views/purchase_view.xml',
         # 'backend_assets.xml',
+        # Joyanto Barmon
         
     ],
     'icon': "/meta_purchase_approval/static/description/icon.png",
